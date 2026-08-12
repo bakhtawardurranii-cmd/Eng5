@@ -4,8 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Business hours confirmed. Contact form is wired to Web3Forms
-     (access key set below) — submits via fetch, no page reload. -->
 
 <title>Contact English Learning Studio | Karachi English &amp; IELTS Coaching</title>
 <meta name="description" content="Get in touch with English Learning Studio in Karachi to book a free assessment, ask about programs, or start your free IELTS mock test.">
@@ -52,7 +50,6 @@
     "longitude": 67.0774375
   },
   "telephone": "+92-370-2491776",
-  "email": "hello@englishlearningstudio.online",
   "openingHoursSpecification": [
     { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Saturday"], "opens": "09:00", "closes": "19:00" },
     { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Friday"], "opens": "09:00", "closes": "12:00" },
@@ -77,7 +74,7 @@
 
 <header class="site-header">
   <div class="container nav">
-    <a href="/" class="logo">
+    <a href="index.html" class="logo">
       <img src="logo-mark.png" alt="English Learning Studio" class="logo-mark-img">
       English Learning Studio
     </a>
@@ -101,7 +98,7 @@
 
   <div class="container">
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/">Home</a><span class="sep">/</span>
+      <a href="index.html">Home</a><span class="sep">/</span>
       <span class="current">Contact</span>
     </nav>
   </div>
@@ -121,8 +118,7 @@
         <h2>Book a free assessment call</h2>
         <p>Tell us a bit about your goals and we'll get back to you within one working day.</p>
 
-        <!-- Wired to Web3Forms — see main.js initWeb3Form(). -->
-        <form class="lead-form" id="contactForm" data-thankyou-url="thank-you.html" aria-label="Contact form" action="https://api.web3forms.com/submit" method="POST">
+                <form class="lead-form" id="contactForm" data-thankyou-url="thank-you.html" aria-label="Contact form" action="https://api.web3forms.com/submit" method="POST">
           <input type="hidden" name="access_key" value="16ac5b6a-8a57-4283-a2d3-82a07b88f8b1">
           <input type="hidden" name="subject" value="New Contact Form Submission — English Learning Studio">
           <input type="hidden" name="from_name" value="English Learning Studio Website">
@@ -170,10 +166,6 @@
               <span><a href="https://wa.me/923702491776" target="_blank" rel="noopener" style="color:inherit;">Message us on WhatsApp</a></span>
             </li>
             <li style="display:flex; gap:0.8em; align-items:flex-start;">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="width:20px;height:20px;color:var(--moss); flex-shrink:0;"><path d="M4 4h16v16H4z" opacity="0"/><path d="M22 6l-10 7L2 6"/><rect x="2" y="4" width="20" height="16" rx="2"/></svg>
-              <span>hello@englishlearningstudio.online</span>
-            </li>
-            <li style="display:flex; gap:0.8em; align-items:flex-start;">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" style="width:20px;height:20px;color:var(--moss); flex-shrink:0;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
               <span>631B, 6th Floor, Mashriq Center, Hassan Square, Gulshan-e-Iqbal Block 14, Karachi 74550</span>
             </li>
@@ -215,7 +207,7 @@
 <footer class="site-footer">
   <div class="container footer-grid">
     <div class="footer-brand">
-      <a href="/" class="logo">
+      <a href="index.html" class="logo">
         <img src="logo-mark-light.png" alt="English Learning Studio" class="logo-mark-img">
         English Learning Studio
       </a>
@@ -248,7 +240,6 @@
         <li><address>631B, 6th Floor, Mashriq Center, Hassan Square, Gulshan-e-Iqbal Block 14, Karachi 74550</address></li>
         <li><a href="tel:+923702491776">+92 370 2491776</a> (also WhatsApp)</li>
         <li style="font-size:0.85rem; color:#b9baa2;">Mon–Sat 9am–7pm<br>(Fri: closed 12–3pm)</li>
-        <li><a href="mailto:hello@englishlearningstudio.online">hello@englishlearningstudio.online</a></li>
         <li><a href="contact.html">Contact form →</a></li>
       </ul>
     </div>
