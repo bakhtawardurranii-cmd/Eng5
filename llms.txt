@@ -7,9 +7,9 @@ English Learning Studio takes a correction-first, live-practice approach ("The S
 ## Programs
 
 - [Free IELTS Mock Test Karachi](https://englishlearningstudio.online/free-ielts-mock-test-karachi.html): Full-length free IELTS mock exam (Listening, Reading, Writing, Speaking) scored against official band descriptors, with a detailed feedback report and personalized study plan.
-- [IELTS Preparation Karachi](https://englishlearningstudio.online/ielts-preparation-karachi.html): All four IELTS modules, Academic and General Training, built around the candidate's specific target band.
+- [IELTS Preparation Karachi](https://englishlearningstudio.online/ielts-preparation-karachi.html): All four IELTS modules, Academic and General Training, built around the candidate's specific target band. The site's primary commercial page for IELTS preparation.
 - [English Language Course Karachi](https://englishlearningstudio.online/english-language-course-karachi.html): Comprehensive program covering speaking, writing, grammar, and vocabulary together.
-- [English Tutor Karachi](https://englishlearningstudio.online/english-tutor-karachi.html): In-person, one-on-one English tutoring in Karachi, booked flexibly around the student's schedule.
+- [English Tutor Karachi](https://englishlearningstudio.online/english-tutor-karachi.html): Private, one-on-one English tutoring in Karachi, in-person or online, booked flexibly around the student's schedule.
 - [Online English Teacher](https://englishlearningstudio.online/online-english-teacher.html): Long-term, fully online one-on-one coaching with the same dedicated teacher throughout.
 - [Spoken English Classes Online](https://englishlearningstudio.online/spoken-english-classes-online.html): Ongoing live small-group speaking practice online, no fixed end date.
 - [Online English Speaking Course](https://englishlearningstudio.online/online-english-speaking-course.html): A fixed 10-week structured online speaking course with a defined start and end date.
@@ -19,12 +19,26 @@ English Learning Studio takes a correction-first, live-practice approach ("The S
 - [Business English Classes](https://englishlearningstudio.online/business-english-classes.html): Workplace-focused English coaching — emails, meetings, presentations, negotiations.
 - [All Programs](https://englishlearningstudio.online/programs.html): Full list of programs with a goal-to-program matching guide.
 
+## IELTS Module Preparation Guides
+
+- [IELTS Speaking Preparation](https://englishlearningstudio.online/ielts-speaking-preparation.html): How Speaking is structured and scored, with live mock-interview practice.
+- [IELTS Writing Preparation](https://englishlearningstudio.online/ielts-writing-preparation.html): Task 1 and Task 2 for Academic and General Training, scored against official band descriptors.
+- [IELTS Reading Preparation](https://englishlearningstudio.online/ielts-reading-preparation.html): Test format, timing, and skimming/scanning strategy.
+- [IELTS Listening Preparation](https://englishlearningstudio.online/ielts-listening-preparation.html): The 4-section format and note-taking strategy.
+- [IELTS Academic vs General Training](https://englishlearningstudio.online/ielts-academic-vs-general-training.html): What differs between the two test versions and which one a candidate needs.
+- [How Long Does IELTS Preparation Take?](https://englishlearningstudio.online/how-long-does-ielts-preparation-take.html): Realistic preparation timelines by starting level and target band.
+- [How Are IELTS Band Scores Calculated?](https://englishlearningstudio.online/how-ielts-band-scores-are-calculated.html): The official rounding rule, with a worked example.
+- [IELTS Band 7 Requirements](https://englishlearningstudio.online/ielts-band-7-requirements.html) and [IELTS Band 6 Requirements](https://englishlearningstudio.online/ielts-band-6-requirements.html): What each module needs for these commonly required overall bands.
+- [Correct Answers Needed for IELTS Band 7](https://englishlearningstudio.online/how-many-correct-answers-for-ielts-band-7.html): Estimated Listening/Reading raw scores for Band 7.
+
 ## Free Resources
 
 - [English Level Test](https://englishlearningstudio.online/english-level-test.html): Free 10-question test estimating CEFR level (A1–C2).
-- [IELTS Band Score Calculator](https://englishlearningstudio.online/ielts-band-score-calculator.html): Calculates overall IELTS band from module scores using official rounding rules.
+- [IELTS Band Score Calculator](https://englishlearningstudio.online/ielts-band-score-calculator.html): Calculates overall IELTS band from module scores using official rounding rules. Informational only, not an official IELTS result.
 - [Vocabulary Level Checker](https://englishlearningstudio.online/vocabulary-level-checker.html): Free tool estimating active English vocabulary level.
 - [Grammar Quiz](https://englishlearningstudio.online/grammar-quiz.html): 10-question quiz covering common English grammar mistakes, with instant explanations.
+- [CEFR English Levels Explained](https://englishlearningstudio.online/cefr-english-levels-explained.html): A1–C2 explained with approximate vocabulary size per level.
+- [How Many English Words Should I Know?](https://englishlearningstudio.online/how-many-english-words-should-i-know.html): Vocabulary benchmarks for everyday, fluent, and academic English.
 
 ## Blog
 
